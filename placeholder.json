@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "description": "",
+  "version": "1.0.0",
+  "author": "",
+  "license": "MIT",
+  "keywords": [],
+  "categories": [],
+  "features": [],
+  "requirements": {
+    "minimum": {},
+    "recommended": {}
+  },
+  "installation": {
+    "steps": []
+  },
+  "configuration": {
+    "settings": {}
+  },
+  "usage": {
+    "examples": []
+  },
+  "support": {
+    "documentation": "",
+    "issues": "",
+    "contact": ""
+  }
+}
